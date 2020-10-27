@@ -1,3 +1,9 @@
+#`````````````````````````````
+#
+#    Developed by Ivan Seagull
+#
+#`````````````````````````````
+
 import COVID19Py
 from sys import exit
 N=1
